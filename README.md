@@ -1,4 +1,4 @@
-![logo](https://github.com/Saurabh9527/Saurabh9527/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner%20(4).png)
+![logo](https://github.com/Saurabh9527/Saurabh9527/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Saurabh Niwate</h1>
 <h3 align="center">👨‍💻 A passionate frontend developer from India</h3>
 
